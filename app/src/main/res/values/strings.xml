@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DisplayImageWithPicasso</string>
+    <string name="description">Image displayed using picasso</string>
+</resources>
